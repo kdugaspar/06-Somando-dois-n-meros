@@ -1,5 +1,5 @@
 
-let botao = window.document.querySelector("somar#input")
+let botao = window.document.getElementById("s")
 let paragrafo = window.document.querySelector("p")
 botao.addEventListener("click",somar)
 
